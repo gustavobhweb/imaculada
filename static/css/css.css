@@ -1,0 +1,7 @@
+*{margin:0;padding:0}
+p{font:16px Calibri;color:#333333}
+.carometro{width:84%; margin:30px auto 0 auto}
+.carometro .aluno{float:left;margin:30px 0 0 30px;width:100px;text-align:center}
+.form-turma{margin:20px 0 0 20px}
+.slc-turma{margin:0 0 0 6px;cursor:pointer;font:16px Calibri;color:#333333;cursor:pointer}
+.clear{clear:both}
